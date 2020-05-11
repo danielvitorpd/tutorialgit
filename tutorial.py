@@ -14,3 +14,7 @@ class Tutorial:
 
 master = Tutorial('master')
 print(master.branch)
+
+master.branch = 'tutorial'
+
+print(master.branch)
