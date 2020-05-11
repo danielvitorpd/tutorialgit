@@ -18,3 +18,7 @@ print(master.branch)
 master.branch = 'tutorial'
 
 print(master.branch)
+
+master.branch = 'help'
+
+print(master.branch)
